@@ -1,0 +1,212 @@
+[
+  {
+    "id": "monalisa",
+    "title": "La Gioconda (Mona Lisa)",
+    "author": "Leonardo da Vinci",
+    "year": 1506,
+    "img": "https://picsum.photos/seed/monalisa/1200/900"
+  },
+  {
+    "id": "lastsupper",
+    "title": "La última cena",
+    "author": "Leonardo da Vinci",
+    "year": 1498,
+    "img": "https://picsum.photos/seed/lastsupper/1200/900"
+  },
+  {
+    "id": "birthofvenus_botticelli",
+    "title": "El nacimiento de Venus",
+    "author": "Sandro Botticelli",
+    "year": 1486,
+    "img": "https://picsum.photos/seed/birthofvenus/1200/900"
+  },
+  {
+    "id": "creationofadam",
+    "title": "La creación de Adán",
+    "author": "Miguel Ángel",
+    "year": 1512,
+    "img": "https://picsum.photos/seed/creationofadam/1200/900"
+  },
+  {
+    "id": "schoolofathens",
+    "title": "La escuela de Atenas",
+    "author": "Rafael",
+    "year": 1511,
+    "img": "https://picsum.photos/seed/schoolofathens/1200/900"
+  },
+  {
+    "id": "arnolfini",
+    "title": "El matrimonio Arnolfini",
+    "author": "Jan van Eyck",
+    "year": 1434,
+    "img": "https://picsum.photos/seed/arnolfini/1200/900"
+  },
+  {
+    "id": "lasmeninas",
+    "title": "Las meninas",
+    "author": "Diego Velázquez",
+    "year": 1656,
+    "img": "https://picsum.photos/seed/lasmeninas/1200/900"
+  },
+  {
+    "id": "nightwatch",
+    "title": "La Ronda de Noche",
+    "author": "Rembrandt",
+    "year": 1642,
+    "img": "https://picsum.photos/seed/nightwatch/1200/900"
+  },
+  {
+    "id": "girlpearl",
+    "title": "La joven de la perla",
+    "author": "Johannes Vermeer",
+    "year": 1665,
+    "img": "https://picsum.photos/seed/girlpearl/1200/900"
+  },
+  {
+    "id": "thirdofmay",
+    "title": "El 3 de mayo de 1808",
+    "author": "Francisco de Goya",
+    "year": 1814,
+    "img": "https://picsum.photos/seed/thirdofmay/1200/900"
+  },
+  {
+    "id": "libertyleading",
+    "title": "La libertad guiando al pueblo",
+    "author": "Eugène Delacroix",
+    "year": 1830,
+    "img": "https://picsum.photos/seed/liberty/1200/900"
+  },
+  {
+    "id": "greatwave",
+    "title": "La gran ola de Kanagawa",
+    "author": "Katsushika Hokusai",
+    "year": 1831,
+    "img": "https://picsum.photos/seed/greatwave/1200/900"
+  },
+  {
+    "id": "impression_sunrise",
+    "title": "Impresión, sol naciente",
+    "author": "Claude Monet",
+    "year": 1872,
+    "img": "https://picsum.photos/seed/impressionsunrise/1200/900"
+  },
+  {
+    "id": "waterlilies",
+    "title": "Nenúfares",
+    "author": "Claude Monet",
+    "year": 1916,
+    "img": "https://picsum.photos/seed/waterlilies/1200/900"
+  },
+  {
+    "id": "starrynight",
+    "title": "La noche estrellada",
+    "author": "Vincent van Gogh",
+    "year": 1889,
+    "img": "https://picsum.photos/seed/starrynight/1200/900"
+  },
+  {
+    "id": "nightcafe",
+    "title": "El café de noche",
+    "author": "Vincent van Gogh",
+    "year": 1888,
+    "img": "https://picsum.photos/seed/nightcafe/1200/900"
+  },
+  {
+    "id": "scream",
+    "title": "El grito",
+    "author": "Edvard Munch",
+    "year": 1893,
+    "img": "https://picsum.photos/seed/scream/1200/900"
+  },
+  {
+    "id": "sunday_grandjatte",
+    "title": "Tarde de domingo en la isla de la Grande Jatte",
+    "author": "Georges Seurat",
+    "year": 1886,
+    "img": "https://picsum.photos/seed/grandjatte/1200/900"
+  },
+  {
+    "id": "olympia",
+    "title": "Olympia",
+    "author": "Édouard Manet",
+    "year": 1863,
+    "img": "https://picsum.photos/seed/olympia/1200/900"
+  },
+  {
+    "id": "luncheon_grass",
+    "title": "Almuerzo sobre la hierba",
+    "author": "Édouard Manet",
+    "year": 1863,
+    "img": "https://picsum.photos/seed/luncheon/1200/900"
+  },
+  {
+    "id": "american_gothic",
+    "title": "American Gothic",
+    "author": "Grant Wood",
+    "year": 1930,
+    "img": "https://picsum.photos/seed/americangothic/1200/900"
+  },
+  {
+    "id": "persistence",
+    "title": "La persistencia de la memoria",
+    "author": "Salvador Dalí",
+    "year": 1931,
+    "img": "https://picsum.photos/seed/persistence/1200/900"
+  },
+  {
+    "id": "guernica",
+    "title": "Guernica",
+    "author": "Pablo Picasso",
+    "year": 1937,
+    "img": "https://picsum.photos/seed/guernica/1200/900"
+  },
+  {
+    "id": "lesdemoi",
+    "title": "Les Demoiselles d'Avignon",
+    "author": "Pablo Picasso",
+    "year": 1907,
+    "img": "https://picsum.photos/seed/lesdemoi/1200/900"
+  },
+  {
+    "id": "thekiss",
+    "title": "El beso",
+    "author": "Gustav Klimt",
+    "year": 1908,
+    "img": "https://picsum.photos/seed/thekiss/1200/900"
+  },
+  {
+    "id": "nighthawks",
+    "title": "Nighthawks",
+    "author": "Edward Hopper",
+    "year": 1942,
+    "img": "https://picsum.photos/seed/nighthawks/1200/900"
+  },
+  {
+    "id": "christinasworld",
+    "title": "El mundo de Cristina",
+    "author": "Andrew Wyeth",
+    "year": 1948,
+    "img": "https://picsum.photos/seed/christina/1200/900"
+  },
+  {
+    "id": "campbells",
+    "title": "Campbell's Soup Cans",
+    "author": "Andy Warhol",
+    "year": 1962,
+    "img": "https://picsum.photos/seed/campbells/1200/900"
+  },
+  {
+    "id": "wanderer",
+    "title": "El caminante sobre el mar de nubes",
+    "author": "Caspar David Friedrich",
+    "year": 1818,
+    "img": "https://picsum.photos/seed/wanderer/1200/900"
+  },
+  {
+    "id": "haywain",
+    "title": "El carro de heno",
+    "author": "John Constable",
+    "year": 1821,
+    "img": "https://picsum.photos/seed/haywain/1200/900"
+  }
+]
