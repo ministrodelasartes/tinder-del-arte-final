@@ -1,212 +1,96 @@
 [
-  {
-    "id": "monalisa",
-    "title": "La Gioconda (Mona Lisa)",
-    "author": "Leonardo da Vinci",
-    "year": 1506,
-    "img": "https://picsum.photos/seed/monalisa/1200/900"
-  },
-  {
-    "id": "lastsupper",
-    "title": "La última cena",
-    "author": "Leonardo da Vinci",
-    "year": 1498,
-    "img": "https://picsum.photos/seed/lastsupper/1200/900"
-  },
-  {
-    "id": "birthofvenus_botticelli",
-    "title": "El nacimiento de Venus",
-    "author": "Sandro Botticelli",
-    "year": 1486,
-    "img": "https://picsum.photos/seed/birthofvenus/1200/900"
-  },
-  {
-    "id": "creationofadam",
-    "title": "La creación de Adán",
-    "author": "Miguel Ángel",
-    "year": 1512,
-    "img": "https://picsum.photos/seed/creationofadam/1200/900"
-  },
-  {
-    "id": "schoolofathens",
-    "title": "La escuela de Atenas",
-    "author": "Rafael",
-    "year": 1511,
-    "img": "https://picsum.photos/seed/schoolofathens/1200/900"
-  },
-  {
-    "id": "arnolfini",
-    "title": "El matrimonio Arnolfini",
-    "author": "Jan van Eyck",
-    "year": 1434,
-    "img": "https://picsum.photos/seed/arnolfini/1200/900"
-  },
-  {
-    "id": "lasmeninas",
-    "title": "Las meninas",
-    "author": "Diego Velázquez",
-    "year": 1656,
-    "img": "https://picsum.photos/seed/lasmeninas/1200/900"
-  },
-  {
-    "id": "nightwatch",
-    "title": "La Ronda de Noche",
-    "author": "Rembrandt",
-    "year": 1642,
-    "img": "https://picsum.photos/seed/nightwatch/1200/900"
-  },
-  {
-    "id": "girlpearl",
-    "title": "La joven de la perla",
-    "author": "Johannes Vermeer",
-    "year": 1665,
-    "img": "https://picsum.photos/seed/girlpearl/1200/900"
-  },
-  {
-    "id": "thirdofmay",
-    "title": "El 3 de mayo de 1808",
-    "author": "Francisco de Goya",
-    "year": 1814,
-    "img": "https://picsum.photos/seed/thirdofmay/1200/900"
-  },
-  {
-    "id": "libertyleading",
-    "title": "La libertad guiando al pueblo",
-    "author": "Eugène Delacroix",
-    "year": 1830,
-    "img": "https://picsum.photos/seed/liberty/1200/900"
-  },
-  {
-    "id": "greatwave",
-    "title": "La gran ola de Kanagawa",
-    "author": "Katsushika Hokusai",
-    "year": 1831,
-    "img": "https://picsum.photos/seed/greatwave/1200/900"
-  },
-  {
-    "id": "impression_sunrise",
-    "title": "Impresión, sol naciente",
-    "author": "Claude Monet",
-    "year": 1872,
-    "img": "https://picsum.photos/seed/impressionsunrise/1200/900"
-  },
-  {
-    "id": "waterlilies",
-    "title": "Nenúfares",
-    "author": "Claude Monet",
-    "year": 1916,
-    "img": "https://picsum.photos/seed/waterlilies/1200/900"
-  },
-  {
-    "id": "starrynight",
-    "title": "La noche estrellada",
-    "author": "Vincent van Gogh",
-    "year": 1889,
-    "img": "https://picsum.photos/seed/starrynight/1200/900"
-  },
-  {
-    "id": "nightcafe",
-    "title": "El café de noche",
-    "author": "Vincent van Gogh",
-    "year": 1888,
-    "img": "https://picsum.photos/seed/nightcafe/1200/900"
-  },
-  {
-    "id": "scream",
-    "title": "El grito",
-    "author": "Edvard Munch",
-    "year": 1893,
-    "img": "https://picsum.photos/seed/scream/1200/900"
-  },
-  {
-    "id": "sunday_grandjatte",
-    "title": "Tarde de domingo en la isla de la Grande Jatte",
-    "author": "Georges Seurat",
-    "year": 1886,
-    "img": "https://picsum.photos/seed/grandjatte/1200/900"
-  },
-  {
-    "id": "olympia",
-    "title": "Olympia",
-    "author": "Édouard Manet",
-    "year": 1863,
-    "img": "https://picsum.photos/seed/olympia/1200/900"
-  },
-  {
-    "id": "luncheon_grass",
-    "title": "Almuerzo sobre la hierba",
-    "author": "Édouard Manet",
-    "year": 1863,
-    "img": "https://picsum.photos/seed/luncheon/1200/900"
-  },
-  {
-    "id": "american_gothic",
-    "title": "American Gothic",
-    "author": "Grant Wood",
-    "year": 1930,
-    "img": "https://picsum.photos/seed/americangothic/1200/900"
-  },
-  {
-    "id": "persistence",
-    "title": "La persistencia de la memoria",
-    "author": "Salvador Dalí",
-    "year": 1931,
-    "img": "https://picsum.photos/seed/persistence/1200/900"
-  },
-  {
-    "id": "guernica",
-    "title": "Guernica",
-    "author": "Pablo Picasso",
-    "year": 1937,
-    "img": "https://picsum.photos/seed/guernica/1200/900"
-  },
-  {
-    "id": "lesdemoi",
-    "title": "Les Demoiselles d'Avignon",
-    "author": "Pablo Picasso",
-    "year": 1907,
-    "img": "https://picsum.photos/seed/lesdemoi/1200/900"
-  },
-  {
-    "id": "thekiss",
-    "title": "El beso",
-    "author": "Gustav Klimt",
-    "year": 1908,
-    "img": "https://picsum.photos/seed/thekiss/1200/900"
-  },
-  {
-    "id": "nighthawks",
-    "title": "Nighthawks",
-    "author": "Edward Hopper",
-    "year": 1942,
-    "img": "https://picsum.photos/seed/nighthawks/1200/900"
-  },
-  {
-    "id": "christinasworld",
-    "title": "El mundo de Cristina",
-    "author": "Andrew Wyeth",
-    "year": 1948,
-    "img": "https://picsum.photos/seed/christina/1200/900"
-  },
-  {
-    "id": "campbells",
-    "title": "Campbell's Soup Cans",
-    "author": "Andy Warhol",
-    "year": 1962,
-    "img": "https://picsum.photos/seed/campbells/1200/900"
-  },
-  {
-    "id": "wanderer",
-    "title": "El caminante sobre el mar de nubes",
-    "author": "Caspar David Friedrich",
-    "year": 1818,
-    "img": "https://picsum.photos/seed/wanderer/1200/900"
-  },
-  {
-    "id": "haywain",
-    "title": "El carro de heno",
-    "author": "John Constable",
-    "year": 1821,
-    "img": "https://picsum.photos/seed/haywain/1200/900"
-  }
+  { "id": "frescotumbadelnadador", "title": "Fresco de la Tumba del Nadador", "author": "Anónimo (Magna Grecia)", "year": -470, "img": "" },
+  { "id": "frisodionisiaco", "title": "Friso dionisíaco (Villa de los Misterios, Pompeya)", "author": "Anónimo (Roma antigua)", "year": -50, "img": "" },
+  { "id": "retratoneneoyesposa", "title": "Retrato de Terencio Neo y su esposa", "author": "Anónimo (Roma antigua)", "year": 70, "img": "" },
+  { "id": "lamentacioncristo", "title": "Lamentación sobre Cristo muerto", "author": "Giotto di Bondone", "year": 1305, "img": "" },
+  { "id": "maesta", "title": "Maestà", "author": "Duccio di Buoninsegna", "year": 1311, "img": "" },
+  { "id": "anunciacionsantamargarita", "title": "Anunciación con Santa Margarita y San Ansano", "author": "Simone Martini y Lippo Memmi", "year": 1333, "img": "" },
+  { "id": "adoracionmagosstrozzi", "title": "Adoración de los Magos (altar Strozzi)", "author": "Gentile da Fabriano", "year": 1423, "img": "" },
+  { "id": "trinidad", "title": "La Trinidad", "author": "Masaccio", "year": 1427, "img": "" },
+  { "id": "arnolfini", "title": "El Matrimonio Arnolfini", "author": "Jan van Eyck", "year": 1434, "img": "" },
+  { "id": "descendimientovan", "title": "Descendimiento de la Cruz", "author": "Rogier van der Weyden", "year": 1435, "img": "" },
+  { "id": "venus", "title": "El nacimiento de Venus", "author": "Sandro Botticelli", "year": 1486, "img": "" },
+  { "id": "ultimacena", "title": "La Última Cena", "author": "Leonardo da Vinci", "year": 1498, "img": "" },
+  { "id": "jardin_delicias", "title": "El jardín de las delicias", "author": "Hieronymus Bosch (El Bosco)", "year": 1500, "img": "" },
+  { "id": "autorretrato28", "title": "Autorretrato a los 28 años", "author": "Albrecht Dürer", "year": 1500, "img": "" },
+  { "id": "escuelaatenas", "title": "La Escuela de Atenas", "author": "Rafael Sanzio", "year": 1511, "img": "" },
+  { "id": "creacionadan", "title": "La Creación de Adán", "author": "Miguel Ángel Buonarroti", "year": 1512, "img": "" },
+  { "id": "retabloisenheim", "title": "Retablo de Isenheim (Crucifixión)", "author": "Matthias Grünewald", "year": 1515, "img": "" },
+  { "id": "asuncionvirgen", "title": "Asunción de la Virgen", "author": "Tiziano Vecellio", "year": 1518, "img": "" },
+  { "id": "descendimientopontormo", "title": "El Descendimiento", "author": "Jacopo Pontormo", "year": 1528, "img": "" },
+  { "id": "embajadores", "title": "Los Embajadores", "author": "Hans Holbein el Joven", "year": 1533, "img": "" },
+  { "id": "venuslocuratiempo", "title": "Venus, Cupido, Locura y Tiempo", "author": "Agnolo Bronzino", "year": 1545, "img": "" },
+  { "id": "cazadoresnieve", "title": "Cazadores en la nieve", "author": "Pieter Bruegel el Viejo", "year": 1565, "img": "" },
+  { "id": "bodasdecana", "title": "Las bodas de Caná", "author": "Paolo Veronese", "year": 1563, "img": "" },
+  { "id": "entierroorgaz", "title": "El entierro del Conde de Orgaz", "author": "El Greco", "year": 1586, "img": "" },
+  { "id": "vocacionsanmateo", "title": "La vocación de San Mateo", "author": "Caravaggio", "year": 1600, "img": "" },
+  { "id": "judithholofernes", "title": "Judith decapitando a Holofernes", "author": "Artemisia Gentileschi", "year": 1614, "img": "" },
+  { "id": "raptoleucipo", "title": "El rapto de las hijas de Leucipo", "author": "Peter Paul Rubens", "year": 1618, "img": "" },
+  { "id": "rondadenoche", "title": "La Ronda de Noche", "author": "Rembrandt van Rijn", "year": 1642, "img": "" },
+  { "id": "lasmeninas", "title": "Las Meninas", "author": "Diego Velázquez", "year": 1656, "img": "" },
+  { "id": "jovenperla", "title": "La joven de la perla", "author": "Johannes Vermeer", "year": 1665, "img": "" },
+  { "id": "citera", "title": "Peregrinación a la isla de Citera", "author": "Jean-Antoine Watteau", "year": 1717, "img": "" },
+  { "id": "columpio", "title": "El columpio", "author": "Jean-Honoré Fragonard", "year": 1767, "img": "" },
+  { "id": "chicobla", "title": "El chico de azul", "author": "Thomas Gainsborough", "year": 1770, "img": "" },
+  { "id": "juramentoHoracios", "title": "El juramento de los Horacios", "author": "Jacques-Louis David", "year": 1784, "img": "" },
+  { "id": "tresdemayo", "title": "El tres de mayo de 1808", "author": "Francisco de Goya", "year": 1814, "img": "" },
+  { "id": "granodalisca", "title": "La Gran Odalisca", "author": "Jean-Auguste-Dominique Ingres", "year": 1814, "img": "" },
+  { "id": "caminante", "title": "El caminante sobre el mar de nubes", "author": "Caspar David Friedrich", "year": 1818, "img": "" },
+  { "id": "balsamedusa", "title": "La balsa de la Medusa", "author": "Théodore Géricault", "year": 1819, "img": "" },
+  { "id": "carroheno", "title": "El carro de heno", "author": "John Constable", "year": 1821, "img": "" },
+  { "id": "libertadpueblo", "title": "La Libertad guiando al pueblo", "author": "Eugène Delacroix", "year": 1830, "img": "" },
+  { "id": "temerario", "title": "El Temerario remolcado", "author": "J. M. W. Turner", "year": 1838, "img": "" },
+  { "id": "picapedreros", "title": "Los picapedreros", "author": "Gustave Courbet", "year": 1849, "img": "" },
+  { "id": "washingtondelaware", "title": "Washington cruzando el Delaware", "author": "Emanuel Leutze", "year": 1851, "img": "" },
+  { "id": "ofelia", "title": "Ofelia", "author": "John Everett Millais", "year": 1852, "img": "" },
+  { "id": "feriacaballos", "title": "La feria de caballos", "author": "Rosa Bonheur", "year": 1855, "img": "" },
+  { "id": "espigadoras", "title": "Las espigadoras", "author": "Jean-François Millet", "year": 1857, "img": "" },
+  { "id": "olympia", "title": "Olympia", "author": "Édouard Manet", "year": 1863, "img": "" },
+  { "id": "madrewhistler", "title": "La madre del artista", "author": "James McNeill Whistler", "year": 1871, "img": "" },
+  { "id": "impresionsolnaciente", "title": "Impresión, sol naciente", "author": "Claude Monet", "year": 1872, "img": "" },
+  { "id": "clasededanza", "title": "La clase de danza", "author": "Edgar Degas", "year": 1874, "img": "" },
+  { "id": "moulingalette", "title": "El molino de la Galette", "author": "Pierre-Auguste Renoir", "year": 1876, "img": "" },
+  { "id": "madamex", "title": "Retrato de Madame X", "author": "John Singer Sargent", "year": 1884, "img": "" },
+  { "id": "grandjatte", "title": "Tarde de domingo en la isla de la Grande Jatte", "author": "Georges Seurat", "year": 1886, "img": "" },
+  { "id": "cristoBruselas", "title": "La entrada de Cristo en Bruselas", "author": "James Ensor", "year": 1888, "img": "" },
+  { "id": "nocheestrellada", "title": "La noche estrellada", "author": "Vincent van Gogh", "year": 1889, "img": "" },
+  { "id": "cestamanzanas", "title": "La cesta de manzanas", "author": "Paul Cézanne", "year": 1893, "img": "" },
+  { "id": "elgrito", "title": "El Grito", "author": "Edvard Munch", "year": 1893, "img": "" },
+  { "id": "banonina", "title": "El baño de la niña", "author": "Mary Cassatt", "year": 1893, "img": "" },
+  { "id": "gaugindondevenimos", "title": "¿De dónde venimos? ¿Qué somos? ¿Adónde vamos?", "author": "Paul Gauguin", "year": 1897, "img": "" },
+  { "id": "besoklimt", "title": "El beso", "author": "Gustav Klimt", "year": 1908, "img": "" },
+  { "id": "danza", "title": "La Danza", "author": "Henri Matisse", "year": 1910, "img": "" },
+  { "id": "ciudadsurge", "title": "La ciudad que surge", "author": "Umberto Boccioni", "year": 1910, "img": "" },
+  { "id": "yoelpueblo", "title": "Yo y el pueblo", "author": "Marc Chagall", "year": 1911, "img": "" },
+  { "id": "desnudobajando", "title": "Desnudo bajando una escalera No. 2", "author": "Marcel Duchamp", "year": 1912, "img": "" },
+  { "id": "composicionvii", "title": "Composición VII", "author": "Wassily Kandinsky", "year": 1913, "img": "" },
+  { "id": "cuadradonegro", "title": "Cuadrado negro", "author": "Kazimir Malévich", "year": 1915, "img": "" },
+  { "id": "carnavalarlequin", "title": "Carnaval de Arlequín", "author": "Joan Miró", "year": 1924, "img": "" },
+  { "id": "traicionimagenes", "title": "La traición de las imágenes", "author": "René Magritte", "year": 1929, "img": "" },
+  { "id": "goticoamericano", "title": "Gótico americano", "author": "Grant Wood", "year": 1930, "img": "" },
+  { "id": "composicionii", "title": "Composición II (rojo, azul y amarillo)", "author": "Piet Mondrian", "year": 1930, "img": "" },
+  { "id": "persistenciamemoria", "title": "La persistencia de la memoria", "author": "Salvador Dalí", "year": 1931, "img": "" },
+  { "id": "jimsonweed", "title": "Flor blanca/Hierba del diablo n.º1", "author": "Georgia O’Keeffe", "year": 1932, "img": "" },
+  { "id": "guernica", "title": "Guernica", "author": "Pablo Picasso", "year": 1937, "img": "" },
+  { "id": "lasdosfridas", "title": "Las dos Fridas", "author": "Frida Kahlo", "year": 1939, "img": "" },
+  { "id": "nighthawks", "title": "Nighthawks", "author": "Edward Hopper", "year": 1942, "img": "" },
+  { "id": "cristinasworld", "title": "El mundo de Cristina", "author": "Andrew Wyeth", "year": 1948, "img": "" },
+  { "id": "numero5pollock", "title": "Número 5, 1948", "author": "Jackson Pollock", "year": 1948, "img": "" },
+  { "id": "mujerI", "title": "Mujer I", "author": "Willem de Kooning", "year": 1952, "img": "" },
+  { "id": "baconnocencio", "title": "Estudio según el retrato del Papa Inocencio X", "author": "Francis Bacon", "year": 1953, "img": "" },
+  { "id": "rustandblue", "title": "Sin título (Rust and Blue)", "author": "Mark Rothko", "year": 1953, "img": "" },
+  { "id": "flag", "title": "Bandera", "author": "Jasper Johns", "year": 1955, "img": "" },
+  { "id": "marilyndiptych", "title": "Marilyn Diptych", "author": "Andy Warhol", "year": 1962, "img": "" },
+  { "id": "whaam", "title": "¡Whaam!", "author": "Roy Lichtenstein", "year": 1963, "img": "" },
+  { "id": "problemarockwell", "title": "El problema con el que todos vivimos", "author": "Norman Rockwell", "year": 1964, "img": "" },
+  { "id": "biggerSplash", "title": "Un gran chapuzón", "author": "David Hockney", "year": 1967, "img": "" },
+  { "id": "bigselfportrait", "title": "Gran autorretrato", "author": "Chuck Close", "year": 1968, "img": "" },
+  { "id": "untitledskull", "title": "Untitled (Skull)", "author": "Jean-Michel Basquiat", "year": 1981, "img": "" },
+  { "id": "betty", "title": "Betty", "author": "Gerhard Richter", "year": 1988, "img": "" },
+  { "id": "propped", "title": "Propped", "author": "Jenny Saville", "year": 1992, "img": "" },
+  { "id": "benefitssupervisor", "title": "Benefits Supervisor Sleeping", "author": "Lucian Freud", "year": 1995, "img": "" },
+  { "id": "pasttimes", "title": "Past Times", "author": "Kerry James Marshall", "year": 1997, "img": "" },
+  { "id": "ninaglobobanksy", "title": "Niña con globo", "author": "Banksy", "year": 2002, "img": "" },
+  { "id": "obama", "title": "Retrato oficial de Barack Obama", "author": "Kehinde Wiley", "year": 2018, "img": "" },
+  { "id": "michelleobama", "title": "Retrato oficial de Michelle Obama", "author": "Amy Sherald", "year": 2018, "img": ""}
 ]
