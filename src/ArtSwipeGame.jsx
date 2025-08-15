@@ -2,16 +2,16 @@ import { useEffect, useState } from 'react'
 import { motion, useMotionValue, useTransform, AnimatePresence, animate } from 'framer-motion'
 
 const DEFAULT_ARTWORKS = [
-  { id: 'monalisa', title: 'La Gioconda (Mona Lisa)', author: 'Leonardo da Vinci', year: 1506, img: 'https://picsum.photos/seed/monalisa/1200/900' },
-  { id: 'birthofvenus', title: 'El nacimiento de Venus', author: 'Sandro Botticelli', year: 1486, img: 'https://picsum.photos/seed/birthofvenus/1200/900' },
-  { id: 'nightwatch', title: 'La Ronda de Noche', author: 'Rembrandt', year: 1642, img: 'https://picsum.photos/seed/nightwatch/1200/900' },
-  { id: 'girlpearl', title: 'La joven de la perla', author: 'Johannes Vermeer', year: 1665, img: 'https://picsum.photos/seed/girlpearl/1200/900' },
-  { id: 'starrynight', title: 'La noche estrellada', author: 'Vincent van Gogh', year: 1889, img: 'https://picsum.photos/seed/starrynight/1200/900' },
-  { id: 'scream', title: 'El grito', author: 'Edvard Munch', year: 1893, img: 'https://picsum.photos/seed/scream/1200/900' },
-  { id: 'americangothic', title: 'American Gothic', author: 'Grant Wood', year: 1930, img: 'https://picsum.photos/seed/americangothic/1200/900' },
-  { id: 'persistence', title: 'La persistencia de la memoria', author: 'Salvador Dalí', year: 1931, img: 'https://picsum.photos/seed/persistence/1200/900' },
-  { id: 'guernica', title: 'Guernica', author: 'Pablo Picasso', year: 1937, img: 'https://picsum.photos/seed/guernica/1200/900' },
-  { id: 'kiss', title: 'El beso', author: 'Gustav Klimt', year: 1908, img: 'https://picsum.photos/seed/kiss/1200/900' },
+  { id: 'monalisa', title: 'La Gioconda (Mona Lisa)', author: 'Leonardo da Vinci', year: 1506, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/960px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg' },
+  { id: 'birthofvenus', title: 'El nacimiento de Venus', author: 'Sandro Botticelli', year: 1486, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/960px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg' },
+  { id: 'nightwatch', title: 'La Ronda de Noche', author: 'Rembrandt', year: 1642, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/960px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg' },
+  { id: 'girlpearl', title: 'La joven de la perla', author: 'Johannes Vermeer', year: 1665, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/960px-Meisje_met_de_parel.jpg' },
+  { id: 'starrynight', title: 'La noche estrellada', author: 'Vincent van Gogh', year: 1889, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg' },
+  { id: 'scream', title: 'El grito', author: 'Edvard Munch', year: 1893, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/960px-The_Scream.jpg' },
+  { id: 'americangothic', title: 'American Gothic', author: 'Grant Wood', year: 1930, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/960px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg' },
+  { id: 'persistence', title: 'La persistencia de la memoria', author: 'Salvador Dalí', year: 1931, img: 'https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg' },
+  { id: 'guernica', title: 'Guernica', author: 'Pablo Picasso', year: 1937, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mural_del_%22Guernica%22_de_Picasso.jpg/960px-Mural_del_%22Guernica%22_de_Picasso.jpg' },
+  { id: 'kiss', title: 'El beso', author: 'Gustav Klimt', year: 1908, img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/960px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg' },
 ]
 
 function shuffle(arr){ const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]} return a }
@@ -212,7 +212,7 @@ export default function ArtSwipeGame(){
                 </div>
                 {(!outOfLives && score === deck.length - 1) && (
                   <div className='text-xs sm:text-sm text-white/95 max-w-sm mb-4'>
-                    Has llegado al final. Ni yo (@ministrodelasartes) he logrado ver esta pantalla jaja (sólo la escribí en el código). Envíame un pantallazo y seré muy feliz :)
+                    Has llegado al final. Terminaste el juego sin perder una sola vida. Ni siquiera yo (@ministrodelasartes) he logrado ver esta pantalla todavía (la escribí en el código pensando en que nadie la desbloqueará jeje). Si puedes envíame un pantallazo y seré muy feliz :)
                   </div>
                 )}
                 <div className='text-white/95 mb-6'>Puntaje: {score} / {deck.length - 1}</div>
